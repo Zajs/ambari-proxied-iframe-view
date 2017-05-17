@@ -1,0 +1,1 @@
+# ambari-proxied-iframe-view
