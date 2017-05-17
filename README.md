@@ -1,1 +1,1 @@
-# ambari-proxied-iframe-view
+# ambari-proxied-mist-view
